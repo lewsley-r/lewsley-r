@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things programming and always learning new skills and technologies
 - 🌱 I’m currently learning K8S with Helm
 - 💞️ I’m looking to collaborate on interesing open-source projects
-- 📫 How to reach me - ronan.lewsley@flaxandteal.co.uk
+- 📫 How to reach me - lewsley-r@ulster.ac.uk
 
 <!---
 lewsley-r/lewsley-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
