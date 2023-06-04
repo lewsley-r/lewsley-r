@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lewsley-r
-- 👀 I’m interested in all things programming and always learning new skills and technologies
-- 🌱 I’m currently learning K8S with Helm
+- 👋 Hi, my name is Ronan Lewsley
+- 👀 I’m a full stack dev in Northern Ireland, primarily working with PHP and Vue JS, but also dabbling in DevOps, Python and recently Ruby.
 - 💞️ I’m looking to collaborate on interesing open-source projects
 - 📫 How to reach me - lewsley-r@ulster.ac.uk
 
