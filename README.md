@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Ronan Lewsley
-- 👀 I’m a full stack dev in Northern Ireland, primarily working with PHP and Vue JS, but also dabbling in DevOps, Python and recently Ruby.
-- 💞️ I’m looking to collaborate on interesing open-source projects
+- 👀 I’m a backend developer in Northern Ireland, dabbling in DevOps and Infra, with some frontend experience mainly in VueJS.
 - 📫 How to reach me - ronanlewsley99@gmail.com
 
 <!---
